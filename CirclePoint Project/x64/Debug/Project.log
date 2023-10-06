@@ -1,0 +1,5 @@
+﻿  Circle.cpp
+  Project.cpp
+  Generating Code...
+C:\Users\pc\OneDrive\Desktop\University tasks\OOP\Project\Circle.cpp(29): warning C4715: 'Circle::IsInside': not all control paths return a value
+  Project.vcxproj -> C:\Users\pc\OneDrive\Desktop\University tasks\OOP\Project\x64\Debug\Project.exe
